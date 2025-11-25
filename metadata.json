@@ -1,0 +1,5 @@
+{
+  "name": "TypoTuner",
+  "description": "A real-time typography visualizer to experiment with font size, letter spacing (tracking), and line height. Includes AI-powered readability analysis.",
+  "requestFramePermissions": []
+}
